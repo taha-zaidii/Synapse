@@ -1,0 +1,33 @@
+# Secrets and local configuration -- never commit these
+.env
+.env.*
+!.env.example
+
+# Runtime data created by the server and client
+users.json
+users.json.*.tmp
+chat_log*.jsonl
+chat.json
+downloads/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
