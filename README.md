@@ -219,9 +219,7 @@ for large files.
 
 ## Credits and license
 
-Synapse grew out of [End-End-Secure-Chat-App](https://github.com/Mehdi-Abidi/End-End-Secure-Chat-App)
-by S. M. Mehdi Abidi (MIT licensed), and was developed further and rewritten by
-S. Taha Zaidi. The original project's contributors were Taha Zaidi, Hamza Nasir
+Synapse was developed by S. Taha Zaidi. The original project's contributors were Taha Zaidi, Hamza Nasir
 and Shahmeer Irfan.
 
 Released under the [MIT License](LICENSE).
